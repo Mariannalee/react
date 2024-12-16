@@ -1,0 +1,27 @@
+
+
+.email {
+  padding: 8px 24px;
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #d89a87;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.game{
+  padding: 8px 24px;
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #d89a87;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
